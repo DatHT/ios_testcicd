@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D4C7699E-B044-4CBF-B429-6205D157E450"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "0313C743-8A5B-404A-9172-71EE95464448"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02D28AB7-2984-4ED8-B67C-C38533D7A849"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstaFeed2/Presentation/View/ViewController/ViewController+Presenter.swift"
+            timestampString = "538195948.7445149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "02D28AB7-2984-4ED8-B67C-C38533D7A849 - 48a0578c9dfb89cd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaFeed2.ViewController.loadData() -&gt; ()"
+                  moduleName = "InstaFeed2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huynhdat/Documents/programming/swift/learn/swift/InstaFeed2/InstaFeed2/Presentation/View/ViewController/ViewController+Presenter.swift"
+                  timestampString = "538145376.63434"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "202">
+               </Location>
+               <Location
+                  uuid = "02D28AB7-2984-4ED8-B67C-C38533D7A849 - 6d22a0ee2c432732"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; () in InstaFeed2.ViewController.loadData() -&gt; ()"
+                  moduleName = "InstaFeed2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huynhdat/Documents/programming/swift/learn/swift/InstaFeed2/InstaFeed2/Presentation/View/ViewController/ViewController+Presenter.swift"
+                  timestampString = "538145376.636489"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72BB10DB-0913-4F77-AB0F-3533A0D17A6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstaFeed2/Presentation/View/ViewController/ViewController+Presenter.swift"
+            timestampString = "538195948.744565"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
